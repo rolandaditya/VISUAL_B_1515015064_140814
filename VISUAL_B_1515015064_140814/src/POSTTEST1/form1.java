@@ -1,5 +1,5 @@
 
-package latih2;
+package POSTTEST1;
 
 
 public class form1 extends javax.swing.JFrame {
